@@ -1,0 +1,38 @@
+/*
+Theme Name: GS Theme
+Theme URI: https://gruposistemas.org/
+Author: Grupo Sistemas, Frank
+Author URI: https://gruposistemas.com
+Description: Tema elaborado para Instituto de Estudios de la Culturas Andinas IDECA Perú
+Version: 2.0
+Tags: Idecaperu, Frank Valero
+Text Domain: Idecaperu.org
+*/
+.arreglo-somos h1,
+.arreglo-somos h2,
+.arreglo-somos h3,
+.arreglo-somos h4,
+.arreglo-somos h5,
+.arreglo-somos h6,
+.arreglo5 h6{font-size: 20px !important;font-weight: bold;text-transform: uppercase;margin-bottom: 0px !important;margin-top: 10px !important;}
+.arreglo-somos h1:first-letter,
+.arreglo-somos h2:first-letter,
+.arreglo-somos h3:first-letter,
+.arreglo-somos h4:first-letter,
+.arreglo-somos h5:first-letter,
+.arreglo-somos h6:first-letter,
+.arreglo5 h6:first-letter{margin-right: 3px;color: #fff !important;padding: 2px 6px;font-size: 1.5em;}
+
+.arreglo-somos h1, .arreglo-somos h1 strong{color: #BE047E !important}
+.arreglo-somos h1:first-letter{background: #BE047E}
+.arreglo-somos h2, .arreglo-somos h2 strong{color: #6F0C7D !important}
+.arreglo-somos h2:first-letter{background: #6F0C7D}
+.arreglo-somos h3, .arreglo-somos h3 strong{color: #F86404 !important}
+.arreglo-somos h3:first-letter{background: #F86404;}
+.arreglo-somos h4, .arreglo-somos h4 strong{color: #FD171C !important}
+.arreglo-somos h4:first-letter{background: #FD171C}
+.arreglo-somos h5, .arreglo-somos h5 strong{color: #004E88 !important}
+.arreglo-somos h5:first-letter{background: #004E88}
+.arreglo-somos h6, .arreglo-somos h6 strong{color: #01AD5D !important}
+.arreglo-somos h6:first-letter{background: #01AD5D}
+.arreglo5 > h4, .arreglo5 h4 strong{color: #FD171C !important}
